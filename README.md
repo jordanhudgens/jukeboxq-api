@@ -9,7 +9,7 @@
   - [x] User
   - [x] User Role
   - [x] Organization
-  - [ ] Location
+  - [x] Location
   - [ ] SongRequest
 - Finish implementation of user role functionality, including connecting the relationships with users, orgs, etc
   - [Polymorphic](https://launchschool.com/blog/understanding-polymorphic-associations-in-rails)
