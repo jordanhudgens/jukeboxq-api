@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  organization: one
-  name: MyString
+old_town:
+  organization: scapegoat
+  name: Old Town
 
-two:
-  organization: two
-  name: MyString
+downtown:
+  organization: scapegoat
+  name: Downtown
