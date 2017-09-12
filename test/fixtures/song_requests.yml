@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  query: MyString
-  location: one
-  user: one
+shake_it_off:
+  query: Shake it off
+  location: old_town
+  user: jaime_lannister
 
-two:
-  query: MyString
-  location: two
-  user: two
+eye_of_the_tiger:
+  query: Eye of the tiger
+  location: old_town
+  user: jaime_lannister
