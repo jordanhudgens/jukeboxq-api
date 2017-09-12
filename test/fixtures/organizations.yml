@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+scapegoat:
+  user: jon_snow
+  name: Scagoat
+
+diego_pops:
+  user: jon_snow
+  name: Diego Pops
