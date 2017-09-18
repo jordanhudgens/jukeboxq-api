@@ -25,3 +25,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'sidekiq'
 gem 'knock', '~> 2.1', '>= 2.1.1'
 gem 'phone', '~> 1.2', '>= 1.2.3'
+gem 'rspotify'

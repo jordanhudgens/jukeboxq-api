@@ -11,4 +11,5 @@
   - [x] Organization
   - [x] Location
   - [x] SongRequest
+- [ ] Initial Spotify connection
 - [ ] Finish implementation of user role functionality
