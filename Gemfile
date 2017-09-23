@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'rails', '~> 5.1.3'
+gem 'dotenv-rails', require: 'dotenv/rails-now'
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.7'
 gem 'redis', '~> 3.0'
