@@ -11,5 +11,6 @@
   - [x] Organization
   - [x] Location
   - [x] SongRequest
+- [ ] Implement serializers and controller queries for each resource
 - [ ] Initial Spotify connection
 - [ ] Finish implementation of user role functionality
