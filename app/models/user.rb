@@ -4,6 +4,7 @@ class User < ApplicationRecord
   validates :email, uniqueness: true
 
   has_many :song_requests, dependent: :destroy
+  has_many :user_roles, dependent: :destroy
   has_one :organization, dependent: :destroy
 
   private def phone_is_valid?
